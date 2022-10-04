@@ -1,0 +1,62 @@
+body{
+    /* justify-content: center;
+    display: flex; */
+    background-image: url(todobg.jpg);
+    min-height: 100vh;
+    background-size: 100vw 100vh;
+    margin: 0 auto;
+    width: 50%;
+
+}
+.conatiner{
+    /* display: flex; */
+    /* justify-content: center; */
+    /* margin: 20px; */
+    /* background-color: aqua; */
+    /* min-height: 6vh; */
+    font-family: 'Ubuntu', sans-serif;
+    /* padding: 4px; */
+    /* margin: 4px; */
+    width: 360px;
+}
+h1{
+    /* display: flex;
+    justify-content: center; */
+    margin: 20px;
+    font-family: 'Ubuntu', sans-serif;
+    color: azure;
+
+}
+
+#addToDo{
+        background-color: wheat;
+        /* min-height: 6vh; */
+        height: 50px;
+        width: 48px;
+        border: none;
+        font-family: 'Ubuntu', sans-serif;
+        /* padding: 3px; */
+        /* margin: 4px; */
+        color: brown;
+        vertical-align: middle;
+}
+#inputfield{
+    border: 2px solid wheat;
+    font-family: 'Ubuntu', sans-serif;
+    vertical-align: middle;
+    width: 300px;
+    height: 46px;
+    outline: none;
+    vertical-align: middle;
+}
+
+.to-dos{
+    margin-top: 20px;
+    color: wheat;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.paragraph-styling{
+    margin: 0;
+    cursor: pointer;
+}
